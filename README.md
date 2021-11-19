@@ -14,9 +14,9 @@ successful online store. This foundation appeals to a wide variety of users;
 ranging from seasoned web developers looking for a user-friendly interface to
 use, to shop owners just launching their business online for the first time.
 
-**Update on working on project**
-**Link to the spreadsheet**
-**Resources**
+- **Update on working on project**
+- **Link to the spreadsheet**
+- **Resources**
 
 <!---
 PongchanokWisut/PongchanokWisut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
