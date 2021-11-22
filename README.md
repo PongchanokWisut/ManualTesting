@@ -13,18 +13,19 @@ OpenCart provides a professional and reliable foundation from which to build a
 successful online store. This foundation appeals to a wide variety of users;
 ranging from seasoned web developers looking for a user-friendly interface to
 use, to shop owners just launching their business online for the first time.
+
 - **Project Overview**
   - As part of the project, ‘OpenCart’ asked Pongchanok to test few functionalities of
 ‘https://demo.opencart.com/” web application.
 
-  -Scope
+  - Scope
 The scope of the project includes testing the following features of
 ‘https://demo.opencart.com/’ web application.
   Inclusions
     - Register (Done)
-      -https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=tgWEmb
+      - https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=tgWEmb
     - Login & Logout (Doing)
-      -https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=C7sWhs
+      - https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=C7sWhs
     - Forgot Password
     - Search
     - Product Compare
