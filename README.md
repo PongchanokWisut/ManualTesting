@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Pongchanok Wisuttipongsanon
 - 👀 I’m interested in working as a Software Tester
-- 🌱 I’m currently learning Software Testing
-- 📫 How to reach me : pongchanok.wisut@gmail.com
+- 🌱 I’m currently learning Software Testing (Manual and Automated)
+- 📫 How to reach me : pongchanok.wisut@gmail.com 
 
-- 💞️ I’m currently working on a software testing project which you can discover below ...
+- I’m currently working on a software testing project which you can discover below ...
 
 **OpenCart eCommerce Demo**
 Application URL : https://demo.opencart.com/
