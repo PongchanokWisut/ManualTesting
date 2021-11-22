@@ -7,7 +7,6 @@
 
 **OpenCart eCommerce Demo**
 Application URL : https://demo.opencart.com/
-- ![This is an image](https://ibb.co/8MJjPfh)
 - **General Information**
   - OpenCart is free open source e-commerce platform for online merchants.
 OpenCart provides a professional and reliable foundation from which to build a
@@ -15,8 +14,13 @@ successful online store. This foundation appeals to a wide variety of users;
 ranging from seasoned web developers looking for a user-friendly interface to
 use, to shop owners just launching their business online for the first time.
 
-- **Update on working on project**
 - **Link to the spreadsheet**
+  - Register Account Functionality (Done)
+     https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=tgWEmb
+  - Login Functionality (Doing)
+     https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=C7sWhs
+  - Bug Reports
+     https://1drv.ms/x/s!At3LnIAZOt81iBbBo1pTogwqxeMb?e=GBg4dr
 - **Resources**
 
 <!---
