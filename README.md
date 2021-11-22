@@ -33,11 +33,11 @@ use, to shop owners just launching their business online for the first time.
       - **Register (Done)**
       - Login (Doing)
       - Logout (To Do)
-      - Forgot Password(To Do)
-      - Search(To Do)
-      - Product Compare(To Do)
-      - Product Display Page(To Do)
-      - Add to Cart(To Do)
+      - Forgot Password (To Do)
+      - Search (To Do)
+      - Product Compare
+      - Product Display Page (To Do)
+      - Add to Cart (To Do)
       - Wish List
       - Shopping Cart
       - Currencies
