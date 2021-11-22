@@ -32,12 +32,12 @@ use, to shop owners just launching their business online for the first time.
     - **Inclusions**
       - **Register (Done)**
       - Login (Doing)
-      - Logout 
-      - Forgot Password
-      - Search
-      - Product Compare
-      - Product Display Page
-      - Add to Cart
+      - Logout (To Do)
+      - Forgot Password(To Do)
+      - Search(To Do)
+      - Product Compare(To Do)
+      - Product Display Page(To Do)
+      - Add to Cart(To Do)
       - Wish List
       - Shopping Cart
       - Currencies
@@ -56,7 +56,7 @@ use, to shop owners just launching their business online for the first time.
       - Mac OS – Safari Browser
       - Android Mobile OS – Chrome
       - iPhone Mobile OS - Safari
-      - SQL (Database related)
+      - XAMMP (Apache and MySQL)
    - **Exclusions**
       - All the features except that are mentioned under ‘Inclusions’
       - Any third-party features or Payment gateways
@@ -68,8 +68,11 @@ use, to shop owners just launching their business online for the first time.
       - Test Plan
         - https://drive.google.com/file/d/1LNqTw-jA_5DTUupyTPRTWdvkyiCjaH8o/view?usp=sharing
 
-    - **Spreadsheet** 
-        - Test Scenarios and Test Cases Included
+------------------------------------------------------------------------------------------------------------------
+
+ - **Testing Spreadsheet** 
+![spread](https://user-images.githubusercontent.com/94665558/142797771-88c6e37d-f4b2-4097-bd49-bc9c5f062e1c.JPG)
+         Test Scenarios and Test Cases Included
           - https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=NFUnJq
 
     - **Bug Reports**
