@@ -15,11 +15,11 @@ ranging from seasoned web developers looking for a user-friendly interface to
 use, to shop owners just launching their business online for the first time.
 
 - **Link to the spreadsheet**
-  - Register Account Functionality (Done)
+  - Register Account Functionality (Done) -
      https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=tgWEmb
-  - Login Functionality (Doing)
+  - Login Functionality (Doing) -
      https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=C7sWhs
-  - Bug Reports
+  - Bug Reports -
      https://1drv.ms/x/s!At3LnIAZOt81iBbBo1pTogwqxeMb?e=GBg4dr
 - **Resources**
 
