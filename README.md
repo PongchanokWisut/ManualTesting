@@ -21,33 +21,31 @@ use, to shop owners just launching their business online for the first time.
 The scope of the project includes testing the following features of
 ‘https://demo.opencart.com/’ web application.
   Inclusions
-    • Register
-    • Login & Logout
-    • Forgot Password
-    • Search
-    • Product Compare
-    • Product Display Page
-    • Add to Cart
-    • Wish List
-    • Shopping Cart
-    • Currencies
-    • Home Page
-    • Checkout Page
-    • My Account Page
-    • Order History Page
-    • Downloads Page
-    • Contact Us Page
-    • Menu Options
-    • Footer Options
-    • Category Pages
+    - Register (Done)
+      -https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=tgWEmb
+    - Login & Logout (Doing)
+      -https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=C7sWhs
+    - Forgot Password
+    - Search
+    - Product Compare
+    - Product Display Page
+    - Add to Cart
+    - Wish List
+    - Shopping Cart
+    - Currencies
+    - Home Page
+    - Checkout Page
+    - My Account Page
+    - Order History Page
+    - Downloads Page
+    - Contact Us Page
+    - Menu Options
+    - Footer Options
+    - Category Pages
 
-- **Link to the spreadsheet**
-  - Register Account Functionality (Done) -
-     https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=tgWEmb
-  - Login Functionality (Doing) -
-     https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=C7sWhs
-  - Bug Reports -
-     https://1drv.ms/x/s!At3LnIAZOt81iBbBo1pTogwqxeMb?e=GBg4dr
+- **Bug Reports **
+    -https://1drv.ms/x/s!At3LnIAZOt81iBbBo1pTogwqxeMb?e=GBg4dr
+    
 - **Resources**
 
 <!---
