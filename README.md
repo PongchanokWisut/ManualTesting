@@ -3,10 +3,18 @@
 - 🌱 I’m currently learning Software Testing (Manual and Automated)
 - 📫 How to reach me : pongchanok.wisut@gmail.com 
 
-- I’m currently working on a software testing project which you can discover below ...
+- **I’m currently working on a manual testing project which you can discover below ...**
 
-**OpenCart eCommerce Demo**
+------------------------------------------------------------------------------------------------------------------
+
+
+- **OpenCart eCommerce Demo**
 Application URL : https://demo.opencart.com/
+
+![opencart](https://user-images.githubusercontent.com/94665558/142794110-7b30300a-84c5-48e4-937a-e312e504ebad.JPG)
+
+
+
 - **General Information**
   - OpenCart is free open source e-commerce platform for online merchants.
 OpenCart provides a professional and reliable foundation from which to build a
@@ -18,31 +26,30 @@ use, to shop owners just launching their business online for the first time.
   - As part of the project, ‘OpenCart’ asked Pongchanok to test few functionalities of
 ‘https://demo.opencart.com/” web application.
 
-  - Scope
-The scope of the project includes testing the following features of
-‘https://demo.opencart.com/’ web application.
-  Inclusions
-    - Register (Done)
-      - https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=tgWEmb
-    - Login & Logout (Doing)
-      - https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=C7sWhs
-    - Forgot Password
-    - Search
-    - Product Compare
-    - Product Display Page
-    - Add to Cart
-    - Wish List
-    - Shopping Cart
-    - Currencies
-    - Home Page
-    - Checkout Page
-    - My Account Page
-    - Order History Page
-    - Downloads Page
-    - Contact Us Page
-    - Menu Options
-    - Footer Options
-    - Category Pages
+  - **Scope**
+    - The scope of the project includes testing the following features of ‘https://demo.opencart.com/’ web application.
+    - **Inclusions**
+      - Register (Done)
+        - https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=trdQ8G
+      - Login & Logout (Doing)
+        - https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=C7sWhs
+      - Forgot Password
+      - Search
+      - Product Compare
+      - Product Display Page
+      - Add to Cart
+      - Wish List
+      - Shopping Cart
+      - Currencies
+      - Home Page
+      - Checkout Page
+      - My Account Page
+      - Order History Page
+      - Downloads Page
+      - Contact Us Page
+      - Menu Options
+      - Footer Options
+      - Category Pages
 
 - **Bug Reports **
     -https://1drv.ms/x/s!At3LnIAZOt81iBbBo1pTogwqxeMb?e=GBg4dr
