@@ -25,14 +25,14 @@ use, to shop owners just launching their business online for the first time.
 
 - **Project Overview**
   - **As a non-experience in software testing, I'm learning manual testing by myself and in order to get my feet wet, I decided to work on a project which was inspired by my teacher Mr. Pavan who teaches many valuable software testing lessons for free on his youtube channal (More on 'My Comment' below)**
-  - As part of the project, ‘OpenCart’ I'm going to test few functionalities of ‘https://demo.opencart.com/” web application.
+  - As part of the project, ‘OpenCart’ I'm going to test few functionalities of https://demo.opencart.com/ web application.
 
   - **Scope**
     - The scope of the project includes testing the following features of ‘https://demo.opencart.com/’ web application.
     - **Inclusions**
       - **Register (Done)**
-      - Login (Doing)
-      - Logout (To Do)
+      - **Login (Done)**
+      - Logout (Doing)
       - Forgot Password (To Do)
       - Search (To Do)
       - Product Compare
@@ -71,7 +71,7 @@ use, to shop owners just launching their business online for the first time.
 ------------------------------------------------------------------------------------------------------------------
 
  - **Testing Spreadsheet** 
-![Tc](https://user-images.githubusercontent.com/94665558/142968010-b132e481-27b1-4996-8ca3-e75b3ca8b759.JPG)
+![tc2](https://user-images.githubusercontent.com/94665558/143011046-b76b1919-f559-4799-9286-04b1c299ff48.JPG)
          Test Scenarios and Test Cases Included
           - https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=NFUnJq
 
