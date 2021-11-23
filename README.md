@@ -86,7 +86,7 @@ use, to shop owners just launching their business online for the first time.
 ------------------------------------------------------------------------------------------------------------------
         
   - **Side Projects**
-     - I started learning robot framework alongside with manual testing, it's so much fun to learn automated testing. You don't have to write several lines of code, then you can see the results. I'm looking forward to discovering more on the automated testing so I try to improve myself everyday in order to be a better tester both manual and automate
+     - I started learning robot framework alongside with manual testing, it's so much fun to learn automated testing. You don't have to write so much complicated lines of code, then you can see the results. I'm looking forward to discovering more on the automated testing so I try to improve myself everyday in order to be a better tester both manual and automate
       
        - **Automated Testing : Robot Framework**
           
