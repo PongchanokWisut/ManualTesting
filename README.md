@@ -33,10 +33,10 @@ use, to shop owners just launching their business online for the first time.
       - **Register (Done)**
       - **Login (Done)**
       - **Logout (Done)**
-      - Forgot Password (To Do)
-      - Search (Doing)
-      - Product Compare
-      - Product Display Page (To Do)
+      - Forgot Password 
+      - **Search (Done)**
+      - Product Compare (To Do)
+      - Product Display Page (Doing)
       - Add to Cart (To Do)
       - Wish List
       - Shopping Cart
@@ -69,7 +69,8 @@ use, to shop owners just launching their business online for the first time.
         - https://drive.google.com/file/d/1LNqTw-jA_5DTUupyTPRTWdvkyiCjaH8o/view?usp=sharing
 
 ------------------------------------------------------------------------------------------------------------------
-![tc2](https://user-images.githubusercontent.com/94665558/143029628-6dd3bb43-fbd1-4d12-a6d3-d2390ab7178f.JPG)
+![tc3](https://user-images.githubusercontent.com/94665558/143198857-a31f9548-126d-4cd4-afc7-cb512ed8c97a.JPG)
+
 
  - **Testing Spreadsheet** 
          (Test Scenarios and Test Cases Included)
