@@ -35,9 +35,9 @@ use, to shop owners just launching their business online for the first time.
       - **Logout (Done)**
       - Forgot Password 
       - **Search (Done)**
-      - Product Compare (To Do)
-      - Product Display Page (Doing)
-      - Add to Cart (To Do)
+      - Product Compare 
+      - **Product Display Page (Done)** 
+      - **Add to Cart (Done)**
       - Wish List
       - Shopping Cart
       - Currencies
@@ -69,7 +69,8 @@ use, to shop owners just launching their business online for the first time.
         - https://drive.google.com/file/d/1LNqTw-jA_5DTUupyTPRTWdvkyiCjaH8o/view?usp=sharing
 
 ------------------------------------------------------------------------------------------------------------------
-![tc3](https://user-images.githubusercontent.com/94665558/143198857-a31f9548-126d-4cd4-afc7-cb512ed8c97a.JPG)
+![Tc4](https://user-images.githubusercontent.com/94665558/143560607-ddd33735-d5a6-4cee-bb7d-7aed17be28d1.JPG)
+
 
 
  - **Testing Spreadsheet** 
