@@ -14,7 +14,7 @@ Spreadsheet (Test Case) - https://docs.google.com/spreadsheets/d/1E3ACQ1TKgHjC29
 
 ------------------------------------------------------------------------------------------------------------------
 
-- **User Page (Test Case Writing )**
+- **User Page (Test Case Writing)**
 ![image](https://user-images.githubusercontent.com/94665558/143770976-cf5d373f-1155-429c-9d18-743568c3168c.png)
 Spreadsheet (Test Case) - https://docs.google.com/spreadsheets/d/1mOLbLQvYZfdTFPUr6oftid03XGw46XFW0xnr45XvF-g/edit?usp=sharing
 
@@ -42,10 +42,10 @@ Spreadsheet (Scenario) - https://docs.google.com/spreadsheets/d/1FUzppbxqGcgS1Jq
 
  - **Testing Spreadsheet** 
          (Test Scenarios and Test Cases Included)
-          - https://1drv.ms/x/s!At3LnIAZOt81iBTegOfN_k-NmutD?e=NFUnJq
+          - https://docs.google.com/spreadsheets/d/1xDTUJ97FpgoutrAHmmWkOmxOSVHrP_lT_mFu2XihmZ4/edit?usp=sharing
 
     - **Bug Reports**
-        - https://1drv.ms/x/s!At3LnIAZOt81iBbBo1pTogwqxeMb?e=GBg4dr
+        - https://docs.google.com/spreadsheets/d/1DbGw8283dxM2sdaWAx4o0v3RaHi1WrvWgmQYkMir2_M/edit?usp=sharing
          
 ------------------------------------------------------------------------------------------------------------------
         
