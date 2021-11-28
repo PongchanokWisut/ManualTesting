@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pongchanok Wisuttipongsanon (Pluem)
 - 👀 I’m interested in working as a Software Tester
-- 🌱 I’m currently learning Software Testing by myself and just finished a Manual Testing course.
-- 📫 How to reach me : pongchanok.wisut@gmail.com   or    -tel : 081-2603820
+- 🌱 I’m currently learning Software Testing by myself and just finished a Manual Testing course (Teacher Beam).
+- 📫 How to reach me : pongchanok.wisut@gmail.com   or    Tel : 081-2603820
 
 
 - **I've finished writing Test Cases and Scenario in several projects and currently working on a full project which you will discover below ...**
@@ -28,7 +28,7 @@ Spreadsheet (Scenario) - https://docs.google.com/spreadsheets/d/1FUzppbxqGcgS1Jq
 
 ------------------------------------------------------------------------------------------------------------------
 
-- **OpenCart eCommerce Demo Full Project (Doing) - URL : https://demo.opencart.com/**
+- **OpenCart eCommerce Full Project (Doing) - URL : https://demo.opencart.com/**
 
 
 ![opencart](https://user-images.githubusercontent.com/94665558/142794110-7b30300a-84c5-48e4-937a-e312e504ebad.JPG)
