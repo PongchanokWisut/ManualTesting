@@ -25,6 +25,12 @@ Spreadsheet (Test Case) - https://docs.google.com/spreadsheets/d/1mOLbLQvYZfdTFP
 ![image](https://user-images.githubusercontent.com/94665558/143771299-7eabb7b9-051d-4e91-84d0-bed17ac8288a.png)
 Spreadsheet (Scenario) - https://docs.google.com/spreadsheets/d/1FUzppbxqGcgS1JqJx_LREAvzZSUTEIPTpku5sEeXemk/edit?usp=sharing
 
+------------------------------------------------------------------------------------------------------------------
+
+
+- **App เป๋าตัง G-Wallet (Log Defect Writing)** 
+![image](https://user-images.githubusercontent.com/94665558/143812725-bb0b7d44-5054-4246-a1bf-f343edf7f81e.png)
+Spreadsheet (Log Defect) - https://docs.google.com/spreadsheets/d/1njrRBT18_f0S8Qz--sF1o4Zyje8-vq609iW-pa0vuaY/edit?usp=sharing
 
 ------------------------------------------------------------------------------------------------------------------
 
