@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pongchanok Wisuttipongsanon (Pluem)
 - 👀 I’m interested in working as a Software Tester
-- 🌱 I’m currently learning Software Testing by myself and just finished a Manual Testing course (Teacher Beam).
+- 🌱 I’m currently learning Software Testing by myself and just finished a Manual Testing course (By P'Beam).
 - 📫 How to reach me : pongchanok.wisut@gmail.com   or    Tel : 081-2603820
 
 
