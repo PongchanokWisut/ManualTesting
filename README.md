@@ -57,21 +57,27 @@ Spreadsheet (Log Defect) - https://docs.google.com/spreadsheets/d/1njrRBT18_f0S8
 ------------------------------------------------------------------------------------------------------------------
         
   - **Side Projects**
-     - I started learning Robot framework alongside with Manual Testing, it's so much fun to learn automated testing. You can write a set of code to test functions of the software automatically which is more challenging and interesting than Manual Testing. I'm looking forward to discovering more on how to write a better Automated Testing script so I try to improve myself everyday in order to be a better software tester.
+      - **Automated Testing : Robot Framework**
+         - I started learning Robot framework alongside with Manual Testing, it's so much fun to learn Automated Testing. You can write a set of code to test functions of the software automatically which is more challenging and interesting than Manual Testing. I'm looking forward to discovering more on how to write a better Automated Testing script so I try to improve myself everyday in order to be a better software tester.
       
-       - **Automated Testing : Robot Framework**
+       
+          - **Validate Registering an account - URL : https://demo.opencart.com/**
+
           
-           - Validate Registering an account
       
         
 https://user-images.githubusercontent.com/94665558/142972161-fc33f773-c498-447e-843f-01ff31464812.mp4
 
+   - **Validate Login to the Application**
 
-
-          - Validate Login with valid account
 
 
 https://user-images.githubusercontent.com/94665558/142973128-d991c8dd-c988-4e15-9724-dcb7bbca4bdc.mp4
+
+   - **Validate Adding Product to Cart**
+
+https://user-images.githubusercontent.com/94665558/143864782-ac1e9d49-6d85-4565-97b1-7836ae57d080.mp4
+
 
 <!---
 PongchanokWisut/PongchanokWisut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
