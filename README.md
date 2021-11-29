@@ -40,17 +40,18 @@ Spreadsheet (Log Defect) - https://docs.google.com/spreadsheets/d/1njrRBT18_f0S8
 ![opencart](https://user-images.githubusercontent.com/94665558/142794110-7b30300a-84c5-48e4-937a-e312e504ebad.JPG)
 
 
-
-
  - **Testing Status** 
-![Tc4](https://user-images.githubusercontent.com/94665558/143560607-ddd33735-d5a6-4cee-bb7d-7aed17be28d1.JPG)
+![image](https://user-images.githubusercontent.com/94665558/143816438-5e719951-deea-4688-be4e-232d8da40e9e.png)
+
+![image](https://user-images.githubusercontent.com/94665558/143821807-14b93500-0bd5-413a-815a-db5f6f370c78.png)
 
 
  - **Testing Spreadsheet** 
          (Test Scenarios and Test Cases Included)
           - https://docs.google.com/spreadsheets/d/1xDTUJ97FpgoutrAHmmWkOmxOSVHrP_lT_mFu2XihmZ4/edit?usp=sharing
 
-    - **Bug Reports**
+
+ - **Bug Reports**
         - https://docs.google.com/spreadsheets/d/1DbGw8283dxM2sdaWAx4o0v3RaHi1WrvWgmQYkMir2_M/edit?usp=sharing
          
 ------------------------------------------------------------------------------------------------------------------
