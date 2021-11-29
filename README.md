@@ -57,7 +57,7 @@ Spreadsheet (Log Defect) - https://docs.google.com/spreadsheets/d/1njrRBT18_f0S8
 ------------------------------------------------------------------------------------------------------------------
         
   - **Side Projects**
-     - I started learning robot framework alongside with manual testing, it's so much fun to learn automated testing. You don't have to write so much complicated lines of code, then you can see the results. I'm looking forward to discovering more on the automated testing so I try to improve myself everyday in order to be a better tester both manual and automate
+     - I started learning Robot framework alongside with Manual Testing, it's so much fun to learn automated testing. You can write a set of code to test functions of the software automatically which is more challenging and interesting than Manual Testing. I'm looking forward to discovering more on how to write a better Automated Testing script so I try to improve myself everyday in order to be a better software tester.
       
        - **Automated Testing : Robot Framework**
           
