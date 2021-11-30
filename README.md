@@ -1,36 +1,36 @@
-- 👋 Hi, I’m Pongchanok Wisuttipongsanon (Pluem)
+- 👋 **Introduction** : Hi, I’m Pongchanok Wisuttipongsanon (Pluem), 27 yrs , living in Phuket, Thailand.
 - 👀 **Personal Objective** : I need to work as a software tester because I like to work on testing documents. It gives me great pleasure to find bugs, log them and send them to someone else to fix it so I can create high-quality software in both functional and non-functional aspects. I'm trying to improve my testing skills everyday and look forward to discovering more on how to be A player at software testing.
-- 🌱 I’m currently learning Software Testing by myself and just finished a Manual Testing course (By P'Beam).
-- 📫 How to reach me : pongchanok.wisut@gmail.com   or    Tel : 081-2603820
+- 🌱 **Learning Path** : I’m currently learning Software Testing by myself and just finished Manual Software Testing Complete Course (By P'Beam).
+- 📫 **How to reach me** : pongchanok.wisut@gmail.com   or   Tel : 081-2603820
 
 
-- **I've finished writing Test Cases and Scenario in several projects and currently working on a full project which you will discover below ...**
+- **I've finished writing Test Cases and Scenario in several projects and currently working on a full project which you will discover below :point_down::point_down::point_down:**
 
 ------------------------------------------------------------------------------------------------------------------
 
 - **The Student Registration System (Test Case Writing)**
 ![image](https://user-images.githubusercontent.com/94665558/143770713-b288473b-ff32-4bae-8862-3a3657408e50.png)
-Spreadsheet (Test Case) - https://docs.google.com/spreadsheets/d/1E3ACQ1TKgHjC29o5p5lMrSzvR9ninDAgPiihtEkYeVA/edit?usp=sharing
+📘 Spreadsheet (Test Case) - https://docs.google.com/spreadsheets/d/1E3ACQ1TKgHjC29o5p5lMrSzvR9ninDAgPiihtEkYeVA/edit?usp=sharing
 
 ------------------------------------------------------------------------------------------------------------------
 
 - **User Page (Test Case Writing)**
 ![image](https://user-images.githubusercontent.com/94665558/143770976-cf5d373f-1155-429c-9d18-743568c3168c.png)
-Spreadsheet (Test Case) - https://docs.google.com/spreadsheets/d/1mOLbLQvYZfdTFPUr6oftid03XGw46XFW0xnr45XvF-g/edit?usp=sharing
+📘 Spreadsheet (Test Case) - https://docs.google.com/spreadsheets/d/1mOLbLQvYZfdTFPUr6oftid03XGw46XFW0xnr45XvF-g/edit?usp=sharing
 
 ------------------------------------------------------------------------------------------------------------------
 
 
 - **Se-ed (Test Scenario Writing) - URL : https://www.se-ed.com/**
 ![image](https://user-images.githubusercontent.com/94665558/143771299-7eabb7b9-051d-4e91-84d0-bed17ac8288a.png)
-Spreadsheet (Scenario) - https://docs.google.com/spreadsheets/d/1FUzppbxqGcgS1JqJx_LREAvzZSUTEIPTpku5sEeXemk/edit?usp=sharing
+📘 Spreadsheet (Scenario) - https://docs.google.com/spreadsheets/d/1FUzppbxqGcgS1JqJx_LREAvzZSUTEIPTpku5sEeXemk/edit?usp=sharing
 
 ------------------------------------------------------------------------------------------------------------------
 
 
 - **App เป๋าตัง G-Wallet (Log Defect Writing)** 
 ![image](https://user-images.githubusercontent.com/94665558/143812725-bb0b7d44-5054-4246-a1bf-f343edf7f81e.png)
-Spreadsheet (Log Defect) - https://docs.google.com/spreadsheets/d/1njrRBT18_f0S8Qz--sF1o4Zyje8-vq609iW-pa0vuaY/edit?usp=sharing
+📘 Spreadsheet (Log Defect) - https://docs.google.com/spreadsheets/d/1njrRBT18_f0S8Qz--sF1o4Zyje8-vq609iW-pa0vuaY/edit?usp=sharing
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -47,12 +47,12 @@ Spreadsheet (Log Defect) - https://docs.google.com/spreadsheets/d/1njrRBT18_f0S8
 
 
  - **Testing Spreadsheet** 
-         (Test Scenarios and Test Cases Included)
-          - https://docs.google.com/spreadsheets/d/1xDTUJ97FpgoutrAHmmWkOmxOSVHrP_lT_mFu2XihmZ4/edit?usp=sharing
+      - 📘 (Test Scenarios and Test Cases Included)
+          -https://docs.google.com/spreadsheets/d/1xDTUJ97FpgoutrAHmmWkOmxOSVHrP_lT_mFu2XihmZ4/edit?usp=sharing
 
 
- - **Bug Reports**
-        - https://docs.google.com/spreadsheets/d/1DbGw8283dxM2sdaWAx4o0v3RaHi1WrvWgmQYkMir2_M/edit?usp=sharing
+ - **📘 Bug Report**
+        -https://docs.google.com/spreadsheets/d/1DbGw8283dxM2sdaWAx4o0v3RaHi1WrvWgmQYkMir2_M/edit?usp=sharing
          
 ------------------------------------------------------------------------------------------------------------------
         
