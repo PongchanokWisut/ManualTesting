@@ -44,6 +44,7 @@
  - **Testing Status** 
 ![image](https://user-images.githubusercontent.com/94665558/143816438-5e719951-deea-4688-be4e-232d8da40e9e.png)
 
+ - **Test Report** 
 ![image](https://user-images.githubusercontent.com/94665558/143821807-14b93500-0bd5-413a-815a-db5f6f370c78.png)
 
 
