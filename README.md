@@ -1,7 +1,8 @@
 - 👋 **Introduction** : Hi, I’m Pongchanok Wisuttipongsanon (Pluem), 27 yrs , living in Phuket, Thailand.
-- 👀 **Personal Objective** : I need to work as a software tester because I enjoy working on testing documents. Finding defects, logging them, and sending them to someone else to fix brings me a lot of pleasure, and it allows me to produce **high-quality software** in both functional and non-functional aspects. Every day, I try to improve my testing skills, and I'm eager to learn more on how to be a **top software tester.**
-- 🌱 **Learning Path** : I just finished **Manual Software Testing Complete Course** (By Khun Beam) and continue learning more advanced testing techniques.
 - 📫 **How to reach me** : pongchanok.wisut@gmail.com   or   Tel : 081-2603820
+- 👀 **Personal Objective** : I need to work as a software tester because I enjoy working on testing documents. Finding defects, logging them, and sending them to someone else to fix brings me a lot of pleasure, and it allows me to produce **high-quality software** in both functional and non-functional aspects. Every day, I try to improve my testing skills, and I'm eager to learn more on how to be a **top software tester.**
+- 🌱 **Learning Path** : I just finished **Manual Software Testing Complete Course** (By Khun Beam) and continue improving my testing techniques and skills by doing a full manual testing project.
+
 
 
 - **I've finished writing Test Cases and Scenario in several projects and currently working on a full project which you will discover below :point_down::point_down::point_down:**
