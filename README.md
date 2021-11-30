@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pongchanok Wisuttipongsanon (Pluem)
-- 👀 I’m interested in working as a Software Tester
+- 👀 **Personal Objective** : I need to work as a software tester because I like to work on testing documents. It gives me great pleasure to find bugs, log them and send them to someone else to fix it so I can create high-quality software in both functional and non-functional aspects. I'm trying to improve my testing skills everyday and look forward to discovering more on how to be A player at software testing.
 - 🌱 I’m currently learning Software Testing by myself and just finished a Manual Testing course (By P'Beam).
 - 📫 How to reach me : pongchanok.wisut@gmail.com   or    Tel : 081-2603820
 
@@ -58,7 +58,7 @@ Spreadsheet (Log Defect) - https://docs.google.com/spreadsheets/d/1njrRBT18_f0S8
         
   - **Side Projects**
       - **Automated Testing : Robot Framework**
-         - I started learning Robot framework alongside with Manual Testing, it's so much fun to learn Automated Testing. You can write a set of code to test functions of the software automatically which is more challenging and interesting than Manual Testing. I'm looking forward to discovering more on how to write a better Automated Testing script so I try to improve myself everyday in order to be a better software tester.
+         - I started learning Robot framework alongside with Manual Testing, it's so much fun to learn Automated Testing. You can write set of codes to test functions of the software automatically which is as challenging and interesting as Manual Testing. I'm looking forward to discovering more on how to write quality Automated Testing scripts and develop myself to be a full stack software tester.
       
        
           - **Validate Registering an account - URL : https://demo.opencart.com/**
